@@ -1,4 +1,4 @@
----
+http://127.0.0.1:4545
 id: cli
 title: Command Line Interface
 sidebar_label: Command Line Interface
